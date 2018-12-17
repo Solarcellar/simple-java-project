@@ -3,8 +3,8 @@
 		xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 		xsi:schemaLocation="http://java.sun.com/xml/ns/j2ee http://java.sun.com/xml/ns/j2ee/web-app_2_4.xsd">
 zdfzsdgzdgzdhg
-	<display-name>Works with Heroku commit master</display-name>
-
+	<display-name>Works with Heroku commit test master</display-name>
+	
 	<servlet>
 		<servlet-name>WorksWithHerokuServlet</servlet-name>
 		<servlet-class>works.buddy.samples.WorksWithHerokuServlet</servlet-class>
